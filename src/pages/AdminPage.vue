@@ -18,15 +18,15 @@
       <div class="AdminBar">
         <div class="search">
           <input type="text" placeholder="Search">
-          <button><img src="../components/icons/search.png"></button>
+          <button><img src="../assets/icons/search.png"></button>
         </div>
         <div class="view">
           <button class="user-view">User</button>
           <button class="admin-view">Admin</button>
         </div>
         <div class="icon-container">
-          <i class="icon"><img src="../components/icons/Bell.png"></i>
-          <i class="icon"><img src="../components/icons/mail.png"></i>
+          <i class="icon"><img src="../assets/icons/Bell.png"></i>
+          <i class="icon"><img src="../assets/icons/mail.png"></i>
         </div>
       </div>
 
