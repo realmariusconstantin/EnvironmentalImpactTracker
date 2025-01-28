@@ -29,7 +29,7 @@ A team project focused on helping individuals monitor their environmental footpr
 Marius Constantin -[GitHub](https://github.com/realmariusconstantin)
 Alex Breathnach - [GitHub](https://github.com/AlexBreathnach)
 Bohdan Brozii - [GitHub](https://github.com/PowerRanger369)
-Raiyan Farhaz - [GitHub]()
+Raiyan Farhaz - [GitHub](https://github.com/Raiyan-Farhaz)
 
 
 ---
@@ -37,4 +37,4 @@ Raiyan Farhaz - [GitHub]()
 ## 🛠️ Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/environmental-impact-tracker.git
+   git clone https://github.com/realmariusconstantin/EnvironmentalImpactTracker.git
